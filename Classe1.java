@@ -1,3 +1,6 @@
-class Classe1 {
+public class Classe1 {
+
+  public Classe1() {
+  }
 
 }
